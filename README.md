@@ -1,1 +1,1 @@
-# Adobe-Xd-Plugin
+# AdobeXd-Plugins
