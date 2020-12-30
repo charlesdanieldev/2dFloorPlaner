@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="more-vertical" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#bcbec6;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_7" fill="rgba(255,255,255,0)" d="M0 0H24V24H0z"/>
+    <circle id="Ellipse_2" cx="1" cy="1" r="1" class="cls-2" transform="translate(11 11)"/>
+    <circle id="Ellipse_3" cx="1" cy="1" r="1" class="cls-2" transform="translate(11 4)"/>
+    <circle id="Ellipse_4" cx="1" cy="1" r="1" class="cls-2" transform="translate(11 18)"/>
+</svg>

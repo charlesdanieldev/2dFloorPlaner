@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_55_3" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-2{fill:#39353d;stroke:#fff}
+        </style>
+    </defs>
+    <g id="Group_27">
+        <g id="door" transform="translate(14.489 12.312)">
+            <g id="Group_36">
+                <g id="Group_35">
+                    <path id="Path_19" d="M72.409 2.436a1.062 1.062 0 0 0-.751-.311H68.47V1.062A1.062 1.062 0 0 0 67.223.016L55.182 2.142a1.063 1.063 0 0 0-.882 1.046v17a1.063 1.063 0 0 0 .878 1.046l12.041 2.125a1.063 1.063 0 0 0 1.247-1.046v-1.064h3.187a1.062 1.062 0 0 0 1.062-1.062v-17a1.063 1.063 0 0 0-.306-.751zm-6.063.753v17.856L56.429 19.3V4.08l9.916-1.751zM70.6 19.124h-2.13V4.251h2.13z" class="cls-2" transform="translate(-54.304)"/>
+                </g>
+            </g>
+            <g id="Group_38" transform="translate(7.791 11.333)">
+                <g id="Group_37">
+                    <path id="Path_20" d="M226.783 248.554a1.064 1.064 0 1 0 .311.752 1.07 1.07 0 0 0-.311-.752z" class="cls-2" transform="translate(-224.969 -248.243)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

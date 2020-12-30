@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#007df9;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Component_32_1" transform="translate(-.001 -.001)">
+        <g id="Group_27">
+            <g id="Group_31" transform="translate(9.092 10.869)">
+                <path id="Line_18" fill="none" stroke="#007df9" d="M12 0L0 21" transform="rotate(60 7.945 19.014)"/>
+                <g id="arrow-left" transform="rotate(60 10.306 17.851)">
+                    <path id="Path_17" d="M2.713 4.681L0 2.34 2.713 0" class="cls-3" transform="rotate(121 7.515 5.843)"/>
+                    <path id="Path_18" d="M2.713 4.758L0 2.379 2.713 0" class="cls-3" transform="rotate(-57 19.526 10.6)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
