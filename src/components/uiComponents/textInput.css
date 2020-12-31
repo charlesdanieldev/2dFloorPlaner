@@ -1,9 +1,0 @@
-input::placeholder {
-    color: #9698a1;
-    opacity: 1;
-}
-input:disabled::placeholder{
-
-color: #d2d4de;
-    opacity: 1;
-}
